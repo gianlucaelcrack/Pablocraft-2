@@ -488,3 +488,7 @@
 [08Dec2024 15:42:00.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: sstop<--[HERE]
 [08Dec2024 15:42:07.866] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [08Dec2024 15:42:07.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: &hola<--[HERE]
+[08Dec2024 15:43:55.101] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 15:43:55.108] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Dec2024 15:48:55.077] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Dec2024 15:48:55.085] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
